@@ -1,1 +1,1 @@
-there is images here because those images are for the site decoration and for the sass .  
+there is images here because those images are for the site decoration and for the sass.  
